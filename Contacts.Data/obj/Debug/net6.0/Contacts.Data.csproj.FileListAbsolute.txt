@@ -1,0 +1,12 @@
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\bin\Debug\net6.0\Contacts.Data.deps.json
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\bin\Debug\net6.0\Contacts.Data.dll
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\bin\Debug\net6.0\Contacts.Data.pdb
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.AssemblyReference.cache
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfoInputs.cache
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfo.cs
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.CoreCompileInputs.cache
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.dll
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\refint\Contacts.Data.dll
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.pdb
+C:\Users\mario.atanasov\Desktop\exam_prep2\Contacts\Contacts.Data\obj\Debug\net6.0\ref\Contacts.Data.dll
